@@ -1,2 +1,2 @@
-# -
-使用Spring+Springmvc+Mybatis实现秒杀系统
+# SecKill
+使用Spring+Springmvc+MyBatis实现秒杀系统
